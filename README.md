@@ -6,7 +6,12 @@
 
 
 # Menggunakan statement if untuk mencari nilai terbesar dari 3 bilangan
-# untuk a di inisiasikan sebagai bilangan pertama, b untuk bilangan kedua, c untuk bilangan ketiga dengan cara statement if untuk a sebagai bilangan pertama, elif untuk b bilangan kedua, dan else untuk c bilangan ketiga, berikut gambar input dan output nya
+# A.untuk mencari bilangan terbesar dari 3 bilangan algoritmanya yang dimasukkan akan membandingkan terlebih dahulu apakah a>b.
+
+# B.jika a>b,maka ada 2 kadidat bilangan terbesar,yaitu a dan c sehingga perlu dilakukan pengujian yang manakah dari a dan c yang lebih besar dengan melakukan membandingkan nilai b dan c. jika nilai b ternyata lebih besar dari c, maka bilangan terbesar adalah a.nilai terbesar adalah c jika ternyata c lebih besar dari dari a.
+
+# C.jika kondisi a>b tidak terpenuhui(atau b<=a),maka 2 kadidat bilangan terbesar adalah b dan c.jika nilai c ternyata lebih kecil dari a,maka b adalah nilai terbesar,sedangakan jika c yang lebih besar dari b,maka yang terbesar adalah c.
+# berikut adalah input dan output nya
 ![Screenshot_376](https://user-images.githubusercontent.com/81457697/141403543-8e828b2e-4220-4b30-9a71-529aea094c8f.png)
 
 # output untuk bilangan yang pertama
